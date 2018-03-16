@@ -1,5 +1,9 @@
 # Android To Do List
 
+Android platformu üzerinde kullanılmak üzere bir "yapılacaklar listesi" tasarlanmıştır.
+
+Uygulama Java programlama dilinde, Android Studio yardımıyla yazılmıştır.
+
 # Project Screenshots
 <p>
 <a href="https://github.com/enestasdemir/AndroidToDoList/blob/master/screenshots/1.png" target="_blank">
